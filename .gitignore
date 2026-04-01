@@ -23,5 +23,8 @@ venv/
 # Private
 private/
 
+# Personal study progress
+exercise/flashcards/
+
 # OS
 .DS_Store
